@@ -1,6 +1,7 @@
 # idea
 .idea
 .goroutine.iml
+*.iml
 
 # direnv
 .envrc
